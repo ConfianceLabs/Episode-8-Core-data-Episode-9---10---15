@@ -6,7 +6,8 @@ And you can also learn swipe to delete feacture of UITableView
 
 ## Requirements
 
-Swift 2.2
+Swift 2.2  
+
 Xcode 7.3
 
 
